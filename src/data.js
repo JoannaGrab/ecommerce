@@ -18,3 +18,21 @@ export const sliderItems = [
     desc: "MODERN. DURABLE. VERSATILE.",
   },
 ];
+
+export const categories = [
+  {
+    id: 1,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Library-Sites-canyon-shared/default/dw5e0eda71/images/plp/Road/Endurace/ridestyle-canyon-endurace-08.jpg?sw=632&sh=650&sm=cut",
+    title: "ROAD BIKES",
+  },
+  {
+    id: 2,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Library-Sites-canyon-shared/default/dw3a82613f/images/plp/E-Bike/canyon-e-mtb-14.jpg?sw=416",
+    title: "E-BIKES",
+  },
+  {
+    id: 3,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Library-Sites-canyon-shared/default/dw48318ee6/images/plp/Gravel/canyon-bikes-world-gravel-05.jpg?sw=632&sh=632&sm=cut",
+    title: "GRAVEL BIKES",
+  },
+];

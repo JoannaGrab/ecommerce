@@ -36,3 +36,30 @@ export const categories = [
     title: "GRAVEL BIKES",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw0c1616a5/images/full/full_2022_/2022/full_2022_inflite-cf-slx-9-team_3024_P23_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+  {
+    id: 2,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwd64efa4e/images/full/full_2022_/2022/full_2022_endurace_cf-sl-8-disc-di2_3366_gy-bk_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+  {
+    id: 3,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwd8d02235/images/full/full_2022_/2022/full_2022_endurace_cf-sl-8-disc-di2_3366_ye-bk_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+  {
+    id: 4,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw743735bd/images/full/full_2022_/2022/full_2022_ultimate-cf-sl-7-disc_3072_P09_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+  {
+    id: 5,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwf3d50ff4/images/full/full_2021_/2021/full_2021_inflite-cf-sl-6_3020_P21_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+  {
+    id: 6,
+    img: "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw85a63e7f/images/full/full_2022_/2021/full_2022_ultimate-cfr-disc-aero_2919_P05_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F4F4F4",
+  },
+];

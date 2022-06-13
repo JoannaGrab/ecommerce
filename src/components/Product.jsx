@@ -4,6 +4,7 @@ import {
   ShoppingCartOutlined,
 } from "@material-ui/icons";
 import styled from "styled-components";
+import { mobile } from "../responsive";
 
 const Info = styled.div`
   opacity: 0;
@@ -31,7 +32,7 @@ const Container = styled.div`
   justify-content: center;
   background-color: #f5f4f5;
   position: relative;
-
+  ${mobile({ height: "20vh", minWidth: "90vw", margin: "5px 0px" })};
   &:hover ${Info} {
     opacity: 1;
   }
